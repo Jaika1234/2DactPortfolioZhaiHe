@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4085ba1b4d741e944b0b5f9567ec6c3a, type: 3}
+  m_Name: Combo Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Combo Sword
+  icon: {fileID: -1943397117, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  dropChance: 100
+  equipmentTpye: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: cb8349b0180c9e2499038acb444a6f33, type: 2}
+  itemEffectDscription: Increase Damage with Each Attack
+  swordType: 3
+  strength: 1
+  agility: 1
+  intelligence: 1
+  vitality: 1
+  damage: 0
+  critChance: 0
+  critPower: 0
+  maxHealth: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials: []

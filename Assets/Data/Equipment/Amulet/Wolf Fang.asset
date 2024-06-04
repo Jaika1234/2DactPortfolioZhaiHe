@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4085ba1b4d741e944b0b5f9567ec6c3a, type: 3}
+  m_Name: Wolf Fang
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Wolf Fang
+  icon: {fileID: 1700278913, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  dropChance: 75
+  equipmentTpye: 2
+  itemCooldown: 0
+  itemEffects: []
+  itemEffectDscription: A powerful strike...
+  swordType: 0
+  strength: 5
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 25
+  critPower: 50
+  maxHealth: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials: []
